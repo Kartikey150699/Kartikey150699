@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building software and negotiating peace between logic and reality.
+Building software with a focus on clean architecture, performance, and maintainability.
 
 
 ## 🌐 Socials:
